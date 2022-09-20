@@ -1,0 +1,51 @@
+.nav-albums>h1{
+	color: blue;
+}
+.nav-albums-li{
+	color:rgb(8,15,30)
+}
+.li>a{
+	color: darksalmon;
+}
+.text-album1{
+	color: crimson;
+}
+.text-album1 h2{
+   color: aqua;
+}
+.text-album2 > p{
+   color: rgb(8, 158, 160);
+}
+.text-album2 > h2{
+	color: chocolate;
+}
+.text-album2 > P{
+	color: blueviolet;
+}
+.text-album3{
+	color: chartreuse;
+}
+.text-album3 > h2{
+	color: darkolivegreen;
+}
+.text-production-list{
+	color: aquamarine;
+}
+.list{
+	color: deeppink;
+}
+.text{
+	color: indianred;
+}
+.text + h3{
+	color:darkslateblue
+}
+.text-album5 > h2{
+	color: yellowgreen;
+}
+.text-album5 > img + p{
+	color: lightskyblue;
+}
+.text-album6 > h2 {
+   color: rgb(70, 7, 178);
+}
